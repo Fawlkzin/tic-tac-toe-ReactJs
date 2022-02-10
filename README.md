@@ -3,7 +3,7 @@
 <h2>Sobre</h2>
 <br>
 <h3> <b>Projeto em construção - 🚧 </b> </h3> 
-<p>Esse é um software que tem por objetivo criar um jogo da velha onde apresenta o vencedor no final e que tenha um histório de todas as jogadas que podem ser resgatadas clicando no botão direito.</p>
+<p>Esse foi o meu primeiro projeto em ReactJs, um software que tem por objetivo criar um jogo da velha onde apresenta o vencedor no final e que tenha um histório de todas as jogadas que podem ser resgatadas clicando no botão direito.</p>
 <br>
 
 # Apresentação:
